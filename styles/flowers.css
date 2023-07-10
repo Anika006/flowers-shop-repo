@@ -1,0 +1,36 @@
+/* sheard related syyle */
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+header{
+    background-color: #E554731A;
+    width: 100%;
+    height: 500px;
+    padding: 50px 50px 0;
+  
+}
+.test{
+    display: flex;
+    justify-content: space-around;
+}
+ 
+.header-title{
+    color: #272727;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 800;
+}
+.header-left{
+width: 500px; 
+}
+.btn-primary{
+    color: #FFFFFF;
+    background-color: #E55473;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.header-right{
+   
+    
+}
