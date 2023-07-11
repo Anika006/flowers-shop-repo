@@ -192,3 +192,42 @@ width: 500px;
     margin: 10px;
     width: 250px;
 }
+/* flowers Latest Deals  */
+.flowers-Latest-Deals{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+} 
+.Latest-deals{
+    background-image: url("../Flower Asset/Rectangle\ 9.png");
+    
+    width: 1076px;
+    height: 300px;
+    background-size: cover;
+    align-items: center;
+    
+    
+}
+.latest-deals-title{
+    text-align: center;
+    padding-top: 20px;
+    font-size: 40px;
+   
+}
+.flowers-deals-description{
+    text-align: center;
+   
+}
+.flowers-latest-from{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+
+    
+}
+.email-from{
+    margin-right: 5px;
+    width: 400px;
+    height: 30px;
+}
