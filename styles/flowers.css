@@ -39,6 +39,9 @@ width: 500px;
     text-align: center;
     font-size: 40px;
     font-weight: 800;
+    margin-bottom: 20px;
+   
+    
 
 }
 .Featured-flowers-background{
@@ -71,7 +74,7 @@ width: 500px;
     background: #e9d5df;
     height: 350px;
     width: 240px;
-  padding: 50px 50px 0px 50px;
+    padding: 50px 50px 0px 50px;
 }
 .flowres2{
     margin: 30px;
@@ -99,11 +102,14 @@ width: 500px;
 .flowers-group{
     background-color: #EBEBEB;
     display: flex;
-    height: 320px;
+    height: 300px;
     padding: 0px 200px 0px 200px;
-    margin: 100px;
+    margin: auto;
+    margin-bottom: 100px;
     align-items: center;
     justify-content: center;
+    width: 700px;
+    border-radius: 10px;
   
 }
 
@@ -131,6 +137,8 @@ width: 500px;
     display: flex;
     justify-content: center;
     align-items: center;
+   
+  
 }
 .flowers-offer-title{
     color: #272727;
@@ -155,6 +163,7 @@ width: 500px;
 /* flowers-instragram-page */
 .flowers-instragram-page{
     background:  #FFF;
+   
 }
 .Instagram-title{
     color: #272727;
@@ -230,4 +239,7 @@ width: 500px;
     margin-right: 5px;
     width: 400px;
     height: 30px;
+}
+.flowers-Latest-Deals{
+    margin-top: 40px;
 }
