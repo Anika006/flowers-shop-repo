@@ -99,31 +99,38 @@ width: 500px;
 .flowers-group{
     background-color: #EBEBEB;
     display: flex;
-    width: 440px;
     height: 320px;
     padding: 0px 200px 0px 200px;
     margin: 100px;
     align-items: center;
+    justify-content: center;
   
 }
 
 .flowers-group1{
-    padding: 30px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
    
     
 }
 .flowers-group2{
-    padding: 50px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
 }
 .flowers-group3{
-        padding: 50px
+    padding: 10px;
+    width: 300px;
+    text-align: center;
 }
 /* flowers offer style */
 .flowers-offer{
     background: #E554730D;
     border-radius: 8px;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
 }
 .flowers-offer-title{
     color: #272727;
@@ -131,6 +138,10 @@ width: 500px;
     font-weight: 800;
     text-align: center;
 }
+.img{
+    margin: 100px;
+}
+
 .offer{
     color:#E55473;
 
